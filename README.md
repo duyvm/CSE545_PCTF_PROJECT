@@ -1,5 +1,8 @@
 # CSE545_PCTF_PROJECT
 
+## About CTF
+https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)
+
 ## Team Bindevil
 
 Members:
@@ -9,6 +12,10 @@ Members:
  - Hongbo Wu, hongbowu@asu.edu
  - He Jiang, hjiang81@asu.edu
  - Jinyi Yu, jinyiyu@asu.edu 
+
+## Team Reports
+
+[Here](/reports/)
 
 ## [Flag Submission](flag-submit)
 
